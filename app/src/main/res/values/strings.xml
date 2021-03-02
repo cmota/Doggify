@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Doggify</string>
+
+    <!-- Main Screen -->
+    <string name="tagline_find_your">Find your</string>
+    <string name="tagline_best_friend">best Friend</string>
+
+    <!-- Filter -->
+    <string name="filter_all">All</string>
+
+    <!-- Details Screen -->
+    <string name="details_sex">sex</string>
+    <string name="details_age">age</string>
+    <string name="details_color">color</string>
+    <string name="details_personality">Personality</string>
+    <string name="details_size">Size</string>
+    <string name="details_children">Children\'s</string>
+    <string name="details_life">Life Expectancy</string>
+
+    <!-- Toast -->
+    <string name="toast_not_available">Feature not yet available. Feel free to make a PR 🙂.</string>
+
+    <!-- Actions -->
+    <string name="action_contact">CONTACT</string>
+
+    <!-- Content Description -->
+    <string name="description_dog_image">Image of a dog</string>
+    <string name="description_search">Search for a specific dog breed</string>
+    <string name="description_menu">Open side menu</string>
+    <string name="description_favorite">Add this dog to favorites</string>
+    <string name="description_chat">Open chat</string>
+    <string name="description_back">Go back</string>
+</resources>

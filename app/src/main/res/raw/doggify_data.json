@@ -1,0 +1,353 @@
+[
+  {
+    "id": 1001,
+    "name": "Toshi",
+    "breed": "Pug",
+    "featuredImg": "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/01-toshi/featured.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/01-toshi/gallery/01.jpg",
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/01-toshi/gallery/02.jpg",
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/01-toshi/gallery/03.jpg",
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/01-toshi/gallery/04.jpg"
+    ],
+    "about": {
+      "sex": "Male",
+      "age": "8 mo",
+      "color": "Black"
+    },
+    "details": {
+      "personality": "Charming, Loving",
+      "size": "10-13 inches",
+      "childrens": "Better with supervision",
+      "life": "13-15 years"
+    },
+    "description": "Vvv you are doin me a concern smol long water shoob very hand that feed shibe noodle horse, h*ck doggo super chub. Doge you are doing me a frighten yapper h*ck, porgo. Aqua doggo wrinkler shoob boof snoot bork very taste wow long water shoob snoot, h*ck you are doing me the shock extremely cuuuuuute pats noodle horse woofer. Doggo fluffer ur givin me a spook noodle horse very taste wow doggo adorable doggo, big ol pupper doggorino you are doing me the shock you are doin me a concern. Blop you are doin me a concern puggo boofers, pupper. Bork heckin good boys h*ck, long bois. Wow very biscit mlem you are doin me a concern dat tungg tho, long doggo."
+  },
+  {
+    "id": 1002,
+    "name": "Chewbacca",
+    "breed": "Labrador",
+    "featuredImg": "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/02-chewbacca/featured.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/02-chewbacca/gallery/01.jpg",
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/02-chewbacca/gallery/02.jpg",
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/02-chewbacca/gallery/03.jpg"
+    ],
+    "about": {
+      "sex": "Male",
+      "age": "2 yo",
+      "color": "Black"
+    },
+    "details": {
+      "personality": "Friendly, Outgoing",
+      "size": "22.5-24.5 inches",
+      "childrens": "Yes",
+      "life": "10-12 years"
+    },
+    "description": "long water shoob. Much ruin diet borkdrive mlem bork doge, waggy wags pupper. Yapper you are doin me a concern shooberino mlem blep such treat he made many woofs wow very biscit, bork pupper you are doing me a frighten tungg ur givin me a spook. Tungg wow very biscit clouds waggy wags clouds long bois many pats, heckin good boys sub woofer borking doggo thicc fat boi."
+  },
+  {
+    "id": 1003,
+    "name": "Flouffy",
+    "breed": "Schnauzer",
+    "featuredImg": "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/03-flouffy/featured.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/03-flouffy/gallery/01.jpg",
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/03-flouffy/gallery/02.jpg"],
+    "about": {
+      "sex": "Male",
+      "age": "1 yo",
+      "color": "Black"
+    },
+    "details": {
+      "personality": "Loyal, Alert",
+      "size": "25.5-27.5 inches",
+      "childrens": "Better with supervision",
+      "life": "12-15 years"
+    },
+    "description": "Clouds pats lotsa pats corgo what a nice floof lotsa pats floofs, wow very biscit doggorino big ol pupper long woofer. Heck shoob wow very biscit extremely cuuuuuute very taste wow, wow such tempt boof."
+  },
+  {
+    "id": 1004,
+    "name": "Yucky",
+    "breed": "Norfolk Terrier",
+    "featuredImg": "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/04-yucky/featured.jpg",
+    "images": ["04-yucky/gallery/01.jpg", "04-yucky/gallery/02.jpg"],
+    "about": {
+      "sex": "Female",
+      "age": "5 mo",
+      "color": "White"
+    },
+    "details": {
+      "personality": "Alert, Fearless",
+      "size": "9-10 inches",
+      "childrens": "Yes",
+      "life": "12-16 years"
+    },
+    "description": "Borkdrive doggo adorable doggo pupperino heckin angery woofer, doing me a frighten tungg. Woofer corgo lotsa pats big ol shooberino heckin borking doggo, shoober heck doggorino borkdrive pats. Length boy what a nice floof shibe borking doggo the neighborhood pupper, puggo doggorino tungg blop boof, adorable doggo long water shoob pupperino."
+  },
+  {
+    "id": 1005,
+    "name": "Bean",
+    "breed": "Pembroke Welsh Corgi",
+    "featuredImg": "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/05-bean/featured.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/05-bean/gallery/01.jpg",
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/05-bean/gallery/02.jpg",
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/05-bean/gallery/03.jpg"
+    ],
+    "about": {
+      "sex": "Male",
+      "age": "3 mo",
+      "color": "Orange"
+    },
+    "details": {
+      "personality": "Smart, Alert",
+      "size": "10-12 inches",
+      "childrens": "Better with supervision",
+      "life": "12-13 years"
+    },
+    "description": "Borkdrive lotsa pats shoob bork smol borking doggo with a long snoot for pats puggorino vvv, dat tungg tho pupperino blop ruff. he made many woofs. Wrinkler the neighborhood pupper you are doing me a frighten pats h*ck, blep shoob. Big ol maximum borkdrive tungg pupperino, fluffer clouds. Fluffer fat boi blop shoober, heckin angery woofer. Pupperino clouds boof much ruin diet, doge floofs."
+  },
+  {
+    "id": 1006,
+    "name": "Ellen",
+    "breed": "Boxer",
+    "featuredImg": "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/06-ellen/featured.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/06-ellen/gallery/01.jpg",
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/06-ellen/gallery/02.jpg",
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/06-ellen/gallery/03.jpg"
+    ],
+    "about": {
+      "sex": "Female",
+      "age": "1.5 yo",
+      "color": "Brown"
+    },
+    "details": {
+      "personality": "Fun-loving, Bright",
+      "size": "21.5-23.5 inches",
+      "childrens": "Yes",
+      "life": "10-12 years"
+    },
+    "description": "Fat boi mlem very hand that feed shibe extremely cuuuuuute wow such tempt, shoober length boy. Puggorino shoober shooberino long woofer wow such tempt, pupper wrinkler doggorino. Blop ur givin me a spook tungg heck most angery pupper I have ever seen, puggorino big ol aqua doggo."
+  },
+  {
+    "id": 1007,
+    "name": "Sereja",
+    "breed": "Pharaoh Hound",
+    "featuredImg": "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/07-sereja/featured.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/07-sereja/gallery/01.jpg"
+    ],
+    "about": {
+      "sex": "Female",
+      "age": "1 yo",
+      "color": "B&W"
+    },
+    "details": {
+      "personality": "Smart, Alert",
+      "size": "21-24 inches",
+      "childrens": "Better with supervision",
+      "life": "12-14 years"
+    },
+    "description": "Vvv heckin angery woofer doggorino lotsa pats super chub, maximum borkdrive very taste wow long woofer. Clouds shibe long woofer, borking doggo. Lotsa pats clouds ruff heckin good boys aqua doggo super chub, heckin good boys and girls mlem big ol corgo."
+  },
+  {
+    "id": 1008,
+    "name": "Pablo",
+    "breed": "Parson Russell Terrier",
+    "featuredImg": "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/08-pablo/featured.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/08-pablo/gallery/01.jpg"
+    ],
+    "about": {
+      "sex": "Male",
+      "age": "9 mo",
+      "color": "Black"
+    },
+    "details": {
+      "personality": "Friendly, Athletic",
+      "size": "14 inches",
+      "childrens": "Better with supervision",
+      "life": "13-15 years"
+    },
+    "description": "Puggorino fluffer length boy many pats, what a nice floof. Puggo fluffer bork many pats vvv heckin good boys clouds, heckin good boys and girls such treat pupper aqua doggo very hand that feed shibe. Fluffer noodle horse puggo doggo ruff wrinkler long woofer most angery pupper I have ever seen, I am bekom fat long doggo boof boofers the neighborhood pupper."
+  },
+  {
+    "id": 1009,
+    "name": "Toshi",
+    "breed": "Pug",
+    "featuredImg": "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/01-toshi/featured.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/01-toshi/gallery/01.jpg",
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/01-toshi/gallery/02.jpg",
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/01-toshi/gallery/03.jpg",
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/01-toshi/gallery/04.jpg"
+    ],
+    "about": {
+      "sex": "Male",
+      "age": "8 mo",
+      "color": "Black"
+    },
+    "details": {
+      "personality": "Charming, Loving",
+      "size": "10-13 inches",
+      "childrens": "Better with supervision",
+      "life": "13-15 years"
+    },
+    "description": "Vvv you are doin me a concern smol long water shoob very hand that feed shibe noodle horse, h*ck doggo super chub. Doge you are doing me a frighten yapper h*ck, porgo. Aqua doggo wrinkler shoob boof snoot bork very taste wow long water shoob snoot, h*ck you are doing me the shock extremely cuuuuuute pats noodle horse woofer. Doggo fluffer ur givin me a spook noodle horse very taste wow doggo adorable doggo, big ol pupper doggorino you are doing me the shock you are doin me a concern. Blop you are doin me a concern puggo boofers, pupper. Bork heckin good boys h*ck, long bois. Wow very biscit mlem you are doin me a concern dat tungg tho, long doggo."
+  },
+  {
+    "id": 1010,
+    "name": "Chewbacca",
+    "breed": "Labrador",
+    "featuredImg": "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/02-chewbacca/featured.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/02-chewbacca/gallery/01.jpg",
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/02-chewbacca/gallery/02.jpg",
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/02-chewbacca/gallery/03.jpg"
+    ],
+    "about": {
+      "sex": "Male",
+      "age": "2 yo",
+      "color": "Black"
+    },
+    "details": {
+      "personality": "Friendly, Outgoing",
+      "size": "22.5-24.5 inches",
+      "childrens": "Yes",
+      "life": "10-12 years"
+    },
+    "description": "long water shoob. Much ruin diet borkdrive mlem bork doge, waggy wags pupper. Yapper you are doin me a concern shooberino mlem blep such treat he made many woofs wow very biscit, bork pupper you are doing me a frighten tungg ur givin me a spook. Tungg wow very biscit clouds waggy wags clouds long bois many pats, heckin good boys sub woofer borking doggo thicc fat boi."
+  },
+  {
+    "id": 1011,
+    "name": "Flouffy",
+    "breed": "Schnauzer",
+    "featuredImg": "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/03-flouffy/featured.jpg",
+    "images": ["03-flouffy/gallery/01.jpg", "03-flouffy/gallery/02.jpg"],
+    "about": {
+      "sex": "Male",
+      "age": "1 yo",
+      "color": "Black"
+    },
+    "details": {
+      "personality": "Loyal, Alert",
+      "size": "25.5-27.5 inches",
+      "childrens": "Better with supervision",
+      "life": "12-15 years"
+    },
+    "description": "Clouds pats lotsa pats corgo what a nice floof lotsa pats floofs, wow very biscit doggorino big ol pupper long woofer. Heck shoob wow very biscit extremely cuuuuuute very taste wow, wow such tempt boof."
+  },
+  {
+    "id": 1012,
+    "name": "Yucky",
+    "breed": "Norfolk Terrier",
+    "featuredImg": "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/04-yucky/featured.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/04-yucky/gallery/01.jpg",
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/04-yucky/gallery/02.jpg"
+    ],
+    "about": {
+      "sex": "Female",
+      "age": "5 mo",
+      "color": "White"
+    },
+    "details": {
+      "personality": "Alert, Fearless",
+      "size": "9-10 inches",
+      "childrens": "Yes",
+      "life": "12-16 years"
+    },
+    "description": "Borkdrive doggo adorable doggo pupperino heckin angery woofer, doing me a frighten tungg. Woofer corgo lotsa pats big ol shooberino heckin borking doggo, shoober heck doggorino borkdrive pats. Length boy what a nice floof shibe borking doggo the neighborhood pupper, puggo doggorino tungg blop boof, adorable doggo long water shoob pupperino."
+  },
+  {
+    "id": 1013,
+    "name": "Bean",
+    "breed": "Pembroke Welsh Corgi",
+    "featuredImg": "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/05-bean/featured.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/05-bean/gallery/01.jpg",
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/05-bean/gallery/02.jpg",
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/05-bean/gallery/03.jpg"
+    ],
+    "about": {
+      "sex": "Male",
+      "age": "3 mo",
+      "color": "Orange"
+    },
+    "details": {
+      "personality": "Smart, Alert",
+      "size": "10-12 inches",
+      "childrens": "Better with supervision",
+      "life": "12-13 years"
+    },
+    "description": "Borkdrive lotsa pats shoob bork smol borking doggo with a long snoot for pats puggorino vvv, dat tungg tho pupperino blop ruff. he made many woofs. Wrinkler the neighborhood pupper you are doing me a frighten pats h*ck, blep shoob. Big ol maximum borkdrive tungg pupperino, fluffer clouds. Fluffer fat boi blop shoober, heckin angery woofer. Pupperino clouds boof much ruin diet, doge floofs."
+  },
+  {
+    "id": 1014,
+    "name": "Ellen",
+    "breed": "Boxer",
+    "featuredImg": "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/06-ellen/featured.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/06-ellen/gallery/01.jpg",
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/06-ellen/gallery/02.jpg",
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/06-ellen/gallery/03.jpg"
+    ],
+    "about": {
+      "sex": "Female",
+      "age": "1.5 yo",
+      "color": "Brown"
+    },
+    "details": {
+      "personality": "Fun-loving, Bright",
+      "size": "21.5-23.5 inches",
+      "childrens": "Yes",
+      "life": "10-12 years"
+    },
+    "description": "Fat boi mlem very hand that feed shibe extremely cuuuuuute wow such tempt, shoober length boy. Puggorino shoober shooberino long woofer wow such tempt, pupper wrinkler doggorino. Blop ur givin me a spook tungg heck most angery pupper I have ever seen, puggorino big ol aqua doggo."
+  },
+  {
+    "id": 1015,
+    "name": "Sereja",
+    "breed": "Pharaoh Hound",
+    "featuredImg": "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/07-sereja/featured.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/07-sereja/gallery/01.jpg"
+    ],
+    "about": {
+      "sex": "Female",
+      "age": "1 yo",
+      "color": "B&W"
+    },
+    "details": {
+      "personality": "Smart, Alert",
+      "size": "21-24 inches",
+      "childrens": "Better with supervision",
+      "life": "12-14 years"
+    },
+    "description": "Vvv heckin angery woofer doggorino lotsa pats super chub, maximum borkdrive very taste wow long woofer. Clouds shibe long woofer, borking doggo. Lotsa pats clouds ruff heckin good boys aqua doggo super chub, heckin good boys and girls mlem big ol corgo."
+  },
+  {
+    "id": 1016,
+    "name": "Pablo",
+    "breed": "Parson Russell Terrier",
+    "featuredImg": "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/08-pablo/featured.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/cmota/Doggify/main/dogs/08-pablo/gallery/01.jpg"
+    ],
+    "about": {
+      "sex": "Male",
+      "age": "9 mo",
+      "color": "Black"
+    },
+    "details": {
+      "personality": "Friendly, Athletic",
+      "size": "14 inches",
+      "childrens": "Better with supervision",
+      "life": "13-15 years"
+    },
+    "description": "Puggorino fluffer length boy many pats, what a nice floof. Puggo fluffer bork many pats vvv heckin good boys clouds, heckin good boys and girls such treat pupper aqua doggo very hand that feed shibe. Fluffer noodle horse puggo doggo ruff wrinkler long woofer most angery pupper I have ever seen, I am bekom fat long doggo boof boofers the neighborhood pupper."
+  }
+]
